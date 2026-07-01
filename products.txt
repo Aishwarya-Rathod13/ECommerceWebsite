@@ -1,1 +1,8 @@
 Product Catalog
+
+1. Laptop - ₹65000
+2. Mobile - ₹25000
+3. Smart Watch - ₹5000
+4. Headphones - ₹3000
+5. Keyboard - ₹1200
+6. Mouse - ₹800
